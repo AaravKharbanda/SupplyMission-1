@@ -11,7 +11,7 @@ function preload()
 	packageIMG=loadImage("package.png")
 }
 
-function setup() {
+function setup() { 
 	createCanvas(800, 700);
 	rectMode(CENTER);
 	
